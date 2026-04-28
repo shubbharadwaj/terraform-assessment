@@ -29,3 +29,5 @@ Due to this, the ALB was not accepting incoming requests.
 
 ## Website Output
 ![Website](images/website.png)
+<img width="1907" height="1068" alt="site" src="https://github.com/user-attachments/assets/890e2178-232d-4e76-bfea-77b3c5a4a24e" />
+
